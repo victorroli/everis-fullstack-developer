@@ -2,8 +2,12 @@
 
 Como exercício foi proposto a reconstrução da página de login do Instagram utilizando o flex-box. Segue abaixo os screenshots do resultado:
 
-<img src="./img/screenshot.png" alt="Screenshot da tela web" style="max-width: 700px; text-align: center;"/>
+<p align="center">
+  <img src="./img/screenshot.png" alt="Screenshot da tela web" width="700px"/>
+</p>
 
 Exibição da tela para dispositivos móveis.
 
-<img src="./img/screenshot_mobile.png" alt="Screenshot da tela para dispositivos móveis" style="max-width: 700px; text-align: center;"/>
+<p align="center">
+  <img src="./img/screenshot_mobile.png" alt="Screenshot da tela para dispositivos móveis" width="400px" />
+</p>
